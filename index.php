@@ -7,6 +7,7 @@
 </head>
 <body>
 	<main>
+		<div>Основи</div>
 		<ul>
 			<li><a href="/Foundations/lesson1.php">Початок роботы з PHP</a></li>
 			<li><a href="/Foundations/lesson2.php">Обзор початкових команд PHP</a></li>
@@ -20,14 +21,29 @@
 			<li><a href="/Foundations/lesson10.php">Зведення в ступінь у PHP</a></li>
 			<li><a href="/Foundations/lesson11.php">Рядки в PHP</a></li>
 			<li><a href="/Foundations/lesson12.php">Робота з HTML тегами у PHP</a></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li><a href="/Foundations/lesson13.php">Логічні значення у PHP</a></li>
+			<li><a href="/Foundations/lesson14.php">Значення null у PHP</a></li>
+			<li><a href="/Foundations/lesson15.php">Автоматичне перетворення типів у PHP</a></li>
+			<li><a href="/Foundations/lesson16.php">Примусове перетворення типів у PHP</a></li>
+			<li><a href="/Foundations/lesson17.php">Отримання символів рядка на PHP</a></li>
+			<li><a href="/Foundations/lesson18.php">Скорочені операції в PHP</a></li>
+			<li><a href="/Foundations/lesson19.php">Операції інкременту та декременту в PHP</a></li>
+			<li><a href="/Foundations/lesson20.php">Практика на операції у PHP</a></li>
+			<li><a href="/Foundations/lesson21.php">Практика на формули в PHP</a></li>
+		</ul>
+		<div>Массиви</div>
+		<ul>
+			<li><a href="/Arrays/lesson1.php">Масиви в PHP</a></li>
+			<li><a href="/Arrays/lesson2.php">Асоціативні масиви в PHP</a></li>
+			<li><a href="/Arrays/lesson3.php">Порядок елементів у масивах у PHP</a></li>
+			<li><a href="/Arrays/lesson4.php">Довжина масиву в PHP</a></li>
+			<li><a href="/Arrays/lesson5.php">Зміна елементів масиву в PHP</a></li>
+			<li><a href="/Arrays/lesson6.php">Заповнення масивів у PHP</a></li>
+			<li><a href="/Arrays/lesson7.php">Ключі зі змінних у PHP</a></li>
+		</ul>
+		<div>Умови</div>
+		<ul>
+			<li><a href="/Conditions/lesson1.php">Конструкція if-else у PHP</a></li>
 			<li></li>
 		</ul>
 	</main>
