@@ -44,7 +44,20 @@
 		<div>Умови</div>
 		<ul>
 			<li><a href="/Conditions/lesson1.php">Конструкція if-else у PHP</a></li>
-			<li></li>
+			<li><a href="/Conditions/lesson2.php">Типи даних та конструкція if-else у PHP</a></li>
+			<li><a href="/Conditions/lesson3.php">Складні умови в if-else у PHP (І або)</a></li>
+			<li><a href="/Conditions/lesson4.php">Інвертування висловлювань у if-else</a></li>
+			<li><a href="/Conditions/lesson5.php">Конструкція if-else та булеві значення</a></li>
+			<li><a href="/Conditions/lesson6.php">Команда isset у PHP</a></li>
+			<li><a href="/Conditions/lesson7.php">Команда empty в PHP</a></li>
+			<li><a href="/Conditions/lesson8.php">Скорочений синтаксис if-else у PHP</a></li>
+			<li><a href="/Conditions/lesson9.php">Комбінації конструкцій if-else у PHP</a></li>
+			<li><a href="/Conditions/lesson10.php">Приклади використання if-else у PHP</a></li>
+			<li><a href="/Conditions/lesson11.php">Практика на умови if-else у PHP</a></li>
+			<li><a href="/Conditions/lesson12.php">Конструкция switch-case в PHP</a></li>
+			<li><a href="/Conditions/lesson13.php">Тернарний оператор в PHP</a></li>
+			<li><a href="/Conditions/lesson14.php">Оператор об'єднання з null в PHP</a></li>
+			<li><a href="/Conditions/lesson15.php">Логічні операції у PHP</a></li>
 		</ul>
 	</main>
 </body>
